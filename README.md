@@ -1,4 +1,4 @@
-# CrewAI_Personalized_Learning_Path
+# CrewAI Personalized Learning Path
 This project utilizes the CrewAI framework to assemble a team of specialized AI agents capable of generating a personalized learning path for a user based on their goals, existing knowledge, and preferred learning style.
 
 The system takes user input, breaks down the learning objective, assesses knowledge gaps, finds relevant online resources, sequences them logically, and presents a structured plan. This example is designed to run in a Google Colab notebook.
